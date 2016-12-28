@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test post"
+date:   2016-12-26 17:35:52 +0100
+categories: test
+author: Fernando Gutierrez
+---
+#Test tittle with one
+##And this one with two
+###Finally, three
+
+This is plain test
