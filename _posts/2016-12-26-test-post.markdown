@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test post"https://canis1.disqus.com/admin/settings/general/
+title:  "Test post"
 date:   2016-12-26 17:35:52 +0100
 categories: test
 author: Fernando Gutierrez
