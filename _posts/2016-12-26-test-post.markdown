@@ -6,10 +6,11 @@ categories: test
 author: Fernando Gutierrez
 ---
 
-# Test tittle with one #
 
-## And this one with two ##
+# Test tittle with one
 
-### Finally, three ###
+## And this one with two
+
+### Finally, three
 
 This is plain test
